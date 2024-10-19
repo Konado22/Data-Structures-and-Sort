@@ -1,7 +1,9 @@
-# Data-Structures-and-Sort
-CS-300 deliverables
-What was the problem you were solving in the projects for this course?
 
+# Data-Structures-and-Sort
+
+<h1>CS-300 deliverables<h1/><br/>
+<h2>What was the problem you were solving in the projects for this course?<h2/>
+  
 Learning about different data structure and how to iterate through them/ the time it takes to search within the structure
 
 How did you approach the problem? Consider why data structures are important to understand.
@@ -16,6 +18,6 @@ How has your work on this project expanded your approach to designing software a
 
 It has given me a better understanding of the importance of different data structures. In the past it may have been easier for me to store everything in arrays but it is nice to know why these seperate structure exist and how different problems might be better suited to different datastructures. 
 
-<b>How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?<b/>
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
 It has been very important for me to continue commenting constitently. It allows me to be able to go back to the code and understand it better/quicker. Also minimizing repetetive code is very important when improving computing efficiency. The more modular the code is the easier it is to adapt as the project changes.
